@@ -1,0 +1,23 @@
+{
+    "profilePhoto" : {},
+    "userName": "designsubway",
+    "designation": "admin",
+    "links": {
+      "PhotoshopCourse": "https://google.com",
+      "Youtube": "https://google.com",
+      "SupportMe": "https://google.com",
+      "TelegramChannel": "https://google.com",
+      "LinkedIn": "https://google.com",
+      "Merhcandise": "https://google.com"
+    },
+    "socialmedia": {
+        "gmail" : "xyz@gmail.com",
+        "facebook" : "xyz@gmail.com",
+        "instagram" : "xyz@gmail.com",
+        "twitter" : "xyz@gmail.com",
+        "youtube" : "xyz@gmail.com",
+        "linkedin" : "xyz@gmail.com",
+        "spotify" : "xyz@gmail.com"
+
+    }
+}
